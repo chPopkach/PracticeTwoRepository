@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLev3WMmQte+J6mPWaXKNvMdjLwTwSCJhjUw/+ffE9r6Ad+P91zRnnQjZzGIfvirYWh+pwxgMRTz3gNzxANsiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr604_buami\\source\\repos\\CalculatorPractice\\CalculatorPractice\\CalculatorPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr604_buami\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\gr604_buami\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
