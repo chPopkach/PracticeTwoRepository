@@ -2,7 +2,7 @@
 
 namespace CalculatorPractice.MethodsFunctions
 {
-    public class MethodShowFile
+    public class MethodFile
     {
         public static void Show()
         {
